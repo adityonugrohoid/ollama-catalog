@@ -1,14 +1,20 @@
 {
+  "scraped_at": "2026-03-08T07:14:52.467471+00:00",
+  "source": "https://ollama.com/library",
+  "total_models": 214,
+  "total_tags": 773,
   "models": [
     {
       "name": "alfred",
       "tags": [
+        "latest",
         "40b"
       ]
     },
     {
       "name": "all-minilm",
       "tags": [
+        "latest",
         "22m",
         "33m"
       ]
@@ -16,62 +22,72 @@
     {
       "name": "athene-v2",
       "tags": [
+        "latest",
         "72b"
       ]
     },
     {
       "name": "aya",
       "tags": [
-        "35b",
-        "8b"
+        "latest",
+        "8b",
+        "35b"
       ]
     },
     {
       "name": "aya-expanse",
       "tags": [
-        "32b",
-        "8b"
+        "latest",
+        "8b",
+        "32b"
       ]
     },
     {
       "name": "bakllava",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "bespoke-minicheck",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "bge-large",
       "tags": [
+        "latest",
         "335m"
       ]
     },
     {
       "name": "bge-m3",
       "tags": [
+        "latest",
         "567m"
       ]
     },
     {
       "name": "codebooga",
       "tags": [
+        "latest",
         "34b"
       ]
     },
     {
       "name": "codegeex4",
       "tags": [
+        "latest",
         "9b"
       ]
     },
     {
       "name": "codegemma",
       "tags": [
+        "latest",
         "2b",
         "7b"
       ]
@@ -79,85 +95,99 @@
     {
       "name": "codellama",
       "tags": [
+        "latest",
+        "7b",
         "13b",
         "34b",
-        "70b",
-        "7b"
+        "70b"
       ]
     },
     {
       "name": "codeqwen",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "codestral",
       "tags": [
+        "latest",
         "22b"
       ]
     },
     {
       "name": "codeup",
       "tags": [
+        "latest",
         "13b"
       ]
     },
     {
       "name": "cogito",
       "tags": [
+        "latest",
+        "3b",
+        "8b",
         "14b",
         "32b",
-        "3b",
-        "70b",
-        "8b"
+        "70b"
       ]
     },
     {
       "name": "cogito-2.1",
       "tags": [
-        "671b"
+        "latest",
+        "671b",
+        "671b-cloud"
       ]
     },
     {
       "name": "command-a",
       "tags": [
+        "latest",
         "111b"
       ]
     },
     {
       "name": "command-r",
       "tags": [
+        "latest",
         "35b"
       ]
     },
     {
       "name": "command-r-plus",
       "tags": [
+        "latest",
         "104b"
       ]
     },
     {
       "name": "command-r7b",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "command-r7b-arabic",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "dbrx",
       "tags": [
+        "latest",
         "132b"
       ]
     },
     {
       "name": "deepcoder",
       "tags": [
+        "latest",
         "1.5b",
         "14b"
       ]
@@ -165,20 +195,23 @@
     {
       "name": "deepscaler",
       "tags": [
+        "latest",
         "1.5b"
       ]
     },
     {
       "name": "deepseek-coder",
       "tags": [
+        "latest",
         "1.3b",
-        "33b",
-        "6.7b"
+        "6.7b",
+        "33b"
       ]
     },
     {
       "name": "deepseek-coder-v2",
       "tags": [
+        "latest",
         "16b",
         "236b"
       ]
@@ -186,31 +219,35 @@
     {
       "name": "deepseek-llm",
       "tags": [
-        "67b",
-        "7b"
+        "latest",
+        "7b",
+        "67b"
       ]
     },
     {
       "name": "deepseek-ocr",
       "tags": [
+        "latest",
         "3b"
       ]
     },
     {
       "name": "deepseek-r1",
       "tags": [
+        "latest",
         "1.5b",
+        "7b",
+        "8b",
         "14b",
         "32b",
-        "671b",
         "70b",
-        "7b",
-        "8b"
+        "671b"
       ]
     },
     {
       "name": "deepseek-v2",
       "tags": [
+        "latest",
         "16b",
         "236b"
       ]
@@ -218,150 +255,189 @@
     {
       "name": "deepseek-v2.5",
       "tags": [
+        "latest",
         "236b"
       ]
     },
     {
       "name": "deepseek-v3",
       "tags": [
+        "latest",
         "671b"
       ]
     },
     {
       "name": "deepseek-v3.1",
       "tags": [
-        "671b"
+        "latest",
+        "671b",
+        "671b-cloud"
+      ]
+    },
+    {
+      "name": "deepseek-v3.2",
+      "tags": [
+        "cloud"
       ]
     },
     {
       "name": "devstral",
       "tags": [
+        "latest",
         "24b"
       ]
     },
     {
       "name": "devstral-2",
       "tags": [
-        "123b"
+        "latest",
+        "123b",
+        "123b-cloud"
       ]
     },
     {
       "name": "devstral-small-2",
       "tags": [
-        "24b"
+        "latest",
+        "24b",
+        "24b-cloud"
       ]
     },
     {
       "name": "dolphin-llama3",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "dolphin-mistral",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "dolphin-mixtral",
       "tags": [
-        "8x22b",
-        "8x7b"
+        "latest",
+        "8x7b",
+        "8x22b"
       ]
     },
     {
       "name": "dolphin-phi",
       "tags": [
+        "latest",
         "2.7b"
       ]
     },
     {
       "name": "dolphin3",
       "tags": [
+        "latest",
         "8b"
       ]
     },
     {
       "name": "dolphincoder",
       "tags": [
-        "15b",
-        "7b"
+        "latest",
+        "7b",
+        "15b"
       ]
     },
     {
       "name": "duckdb-nsql",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "embeddinggemma",
       "tags": [
+        "latest",
         "300m"
       ]
     },
     {
       "name": "everythinglm",
       "tags": [
+        "latest",
         "13b"
       ]
     },
     {
       "name": "exaone-deep",
       "tags": [
+        "latest",
         "2.4b",
-        "32b",
-        "7.8b"
+        "7.8b",
+        "32b"
       ]
     },
     {
       "name": "exaone3.5",
       "tags": [
+        "latest",
         "2.4b",
-        "32b",
-        "7.8b"
+        "7.8b",
+        "32b"
       ]
     },
     {
       "name": "falcon",
       "tags": [
-        "180b",
+        "latest",
+        "7b",
         "40b",
-        "7b"
+        "180b"
       ]
     },
     {
       "name": "falcon2",
       "tags": [
+        "latest",
         "11b"
       ]
     },
     {
       "name": "falcon3",
       "tags": [
-        "10b",
+        "latest",
         "1b",
         "3b",
-        "7b"
+        "7b",
+        "10b"
       ]
     },
     {
       "name": "firefunction-v2",
       "tags": [
+        "latest",
         "70b"
       ]
     },
     {
       "name": "functiongemma",
       "tags": [
+        "latest",
         "270m"
+      ]
+    },
+    {
+      "name": "gemini-3-flash-preview",
+      "tags": [
+        "latest",
+        "cloud"
       ]
     },
     {
       "name": "gemma",
       "tags": [
+        "latest",
         "2b",
         "7b"
       ]
@@ -369,85 +445,137 @@
     {
       "name": "gemma2",
       "tags": [
-        "27b",
+        "latest",
         "2b",
-        "9b"
+        "9b",
+        "27b"
       ]
     },
     {
       "name": "gemma3",
       "tags": [
-        "12b",
-        "1b",
+        "latest",
         "270m",
+        "1b",
+        "4b",
+        "12b",
         "27b",
-        "4b"
+        "4b-cloud",
+        "12b-cloud",
+        "27b-cloud"
       ]
     },
     {
       "name": "gemma3n",
       "tags": [
+        "latest",
         "e2b",
         "e4b"
       ]
     },
     {
+      "name": "glm-4.6",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "glm-4.7",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
       "name": "glm-4.7-flash",
       "tags": [
-        "latest"
+        "latest",
+        "q4_K_M",
+        "q8_0",
+        "bf16"
+      ]
+    },
+    {
+      "name": "glm-5",
+      "tags": [
+        "cloud"
       ]
     },
     {
       "name": "glm-ocr",
       "tags": [
-        "latest"
+        "latest",
+        "q8_0",
+        "bf16"
       ]
     },
     {
       "name": "glm4",
       "tags": [
+        "latest",
         "9b"
       ]
     },
     {
       "name": "goliath",
       "tags": [
-        "latest"
+        "latest",
+        "120b-q2_K",
+        "120b-q3_K_S",
+        "120b-q3_K_M",
+        "120b-q3_K_L",
+        "120b-q4_0",
+        "120b-q4_1",
+        "120b-q4_K_S",
+        "120b-q4_K_M",
+        "120b-q5_0",
+        "120b-q5_1",
+        "120b-q5_K_S",
+        "120b-q5_K_M",
+        "120b-q6_K",
+        "120b-q8_0",
+        "120b-fp16"
       ]
     },
     {
       "name": "gpt-oss",
       "tags": [
+        "latest",
+        "20b",
         "120b",
-        "20b"
+        "20b-cloud",
+        "120b-cloud"
       ]
     },
     {
       "name": "gpt-oss-safeguard",
       "tags": [
-        "120b",
-        "20b"
+        "latest",
+        "20b",
+        "120b"
       ]
     },
     {
       "name": "granite-code",
       "tags": [
-        "20b",
-        "34b",
+        "latest",
         "3b",
-        "8b"
+        "8b",
+        "20b",
+        "34b"
       ]
     },
     {
       "name": "granite-embedding",
       "tags": [
-        "278m",
-        "30m"
+        "latest",
+        "30m",
+        "278m"
       ]
     },
     {
       "name": "granite3-dense",
       "tags": [
+        "latest",
         "2b",
         "8b"
       ]
@@ -455,6 +583,7 @@
     {
       "name": "granite3-guardian",
       "tags": [
+        "latest",
         "2b",
         "8b"
       ]
@@ -462,6 +591,7 @@
     {
       "name": "granite3-moe",
       "tags": [
+        "latest",
         "1b",
         "3b"
       ]
@@ -469,6 +599,7 @@
     {
       "name": "granite3.1-dense",
       "tags": [
+        "latest",
         "2b",
         "8b"
       ]
@@ -476,6 +607,7 @@
     {
       "name": "granite3.1-moe",
       "tags": [
+        "latest",
         "1b",
         "3b"
       ]
@@ -483,6 +615,7 @@
     {
       "name": "granite3.2",
       "tags": [
+        "latest",
         "2b",
         "8b"
       ]
@@ -490,12 +623,14 @@
     {
       "name": "granite3.2-vision",
       "tags": [
+        "latest",
         "2b"
       ]
     },
     {
       "name": "granite3.3",
       "tags": [
+        "latest",
         "2b",
         "8b"
       ]
@@ -503,108 +638,180 @@
     {
       "name": "granite4",
       "tags": [
-        "1b",
+        "latest",
         "350m",
+        "1b",
         "3b"
       ]
     },
     {
       "name": "hermes3",
       "tags": [
+        "latest",
         "3b",
-        "405b",
+        "8b",
         "70b",
-        "8b"
+        "405b"
       ]
     },
     {
       "name": "internlm2",
       "tags": [
+        "latest",
+        "1m",
         "1.8b",
-        "20b",
-        "7b"
+        "7b",
+        "20b"
+      ]
+    },
+    {
+      "name": "kimi-k2",
+      "tags": [
+        "1t-cloud"
+      ]
+    },
+    {
+      "name": "kimi-k2-thinking",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "kimi-k2.5",
+      "tags": [
+        "cloud"
       ]
     },
     {
       "name": "lfm2",
       "tags": [
+        "latest",
         "24b"
       ]
     },
     {
       "name": "lfm2.5-thinking",
       "tags": [
+        "latest",
         "1.2b"
       ]
     },
     {
       "name": "llama-guard3",
       "tags": [
+        "latest",
         "1b",
         "8b"
       ]
     },
     {
+      "name": "llama-pro",
+      "tags": [
+        "latest",
+        "instruct",
+        "text",
+        "8b-instruct-q2_K",
+        "8b-instruct-q3_K_S",
+        "8b-instruct-q3_K_M",
+        "8b-instruct-q3_K_L",
+        "8b-instruct-q4_0",
+        "8b-instruct-q4_1",
+        "8b-instruct-q4_K_S",
+        "8b-instruct-q4_K_M",
+        "8b-instruct-q5_0",
+        "8b-instruct-q5_1",
+        "8b-instruct-q5_K_S",
+        "8b-instruct-q5_K_M",
+        "8b-instruct-q6_K",
+        "8b-instruct-q8_0",
+        "8b-instruct-fp16",
+        "8b-text-q2_K",
+        "8b-text-q3_K_S",
+        "8b-text-q3_K_M",
+        "8b-text-q3_K_L",
+        "8b-text-q4_0",
+        "8b-text-q4_1",
+        "8b-text-q4_K_S",
+        "8b-text-q4_K_M",
+        "8b-text-q5_0",
+        "8b-text-q5_1",
+        "8b-text-q5_K_S",
+        "8b-text-q5_K_M",
+        "8b-text-q6_K",
+        "8b-text-q8_0",
+        "8b-text-fp16"
+      ]
+    },
+    {
       "name": "llama2",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "70b",
-        "7b"
+        "70b"
       ]
     },
     {
       "name": "llama2-chinese",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "llama2-uncensored",
       "tags": [
-        "70b",
-        "7b"
+        "latest",
+        "7b",
+        "70b"
       ]
     },
     {
       "name": "llama3",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "llama3-chatqa",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "llama3-gradient",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "llama3-groq-tool-use",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "llama3.1",
       "tags": [
-        "405b",
+        "latest",
+        "8b",
         "70b",
-        "8b"
+        "405b"
       ]
     },
     {
       "name": "llama3.2",
       "tags": [
+        "latest",
         "1b",
         "3b"
       ]
@@ -612,6 +819,7 @@
     {
       "name": "llama3.2-vision",
       "tags": [
+        "latest",
         "11b",
         "90b"
       ]
@@ -619,120 +827,166 @@
     {
       "name": "llama3.3",
       "tags": [
+        "latest",
         "70b"
       ]
     },
     {
       "name": "llama4",
       "tags": [
-        "128x17b",
-        "16x17b"
+        "latest",
+        "16x17b",
+        "128x17b"
       ]
     },
     {
       "name": "llava",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "34b",
-        "7b"
+        "34b"
       ]
     },
     {
       "name": "llava-llama3",
       "tags": [
+        "latest",
         "8b"
       ]
     },
     {
       "name": "llava-phi3",
       "tags": [
+        "latest",
         "3.8b"
       ]
     },
     {
       "name": "magicoder",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "magistral",
       "tags": [
+        "latest",
         "24b"
       ]
     },
     {
       "name": "marco-o1",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "mathstral",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "meditron",
       "tags": [
-        "70b",
-        "7b"
+        "latest",
+        "7b",
+        "70b"
       ]
     },
     {
       "name": "medllama2",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "megadolphin",
       "tags": [
+        "latest",
         "120b"
       ]
     },
     {
       "name": "minicpm-v",
       "tags": [
+        "latest",
         "8b"
+      ]
+    },
+    {
+      "name": "minimax-m2",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "minimax-m2.1",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "minimax-m2.5",
+      "tags": [
+        "cloud"
       ]
     },
     {
       "name": "ministral-3",
       "tags": [
-        "14b",
+        "latest",
         "3b",
-        "8b"
+        "8b",
+        "14b",
+        "3b-cloud",
+        "8b-cloud",
+        "14b-cloud"
       ]
     },
     {
       "name": "mistral",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "mistral-large",
       "tags": [
+        "latest",
         "123b"
+      ]
+    },
+    {
+      "name": "mistral-large-3",
+      "tags": [
+        "675b-cloud"
       ]
     },
     {
       "name": "mistral-nemo",
       "tags": [
+        "latest",
         "12b"
       ]
     },
     {
       "name": "mistral-openorca",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "mistral-small",
       "tags": [
+        "latest",
         "22b",
         "24b"
       ]
@@ -740,68 +994,88 @@
     {
       "name": "mistral-small3.1",
       "tags": [
+        "latest",
         "24b"
       ]
     },
     {
       "name": "mistral-small3.2",
       "tags": [
+        "latest",
         "24b"
       ]
     },
     {
       "name": "mistrallite",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "mixtral",
       "tags": [
-        "8x22b",
-        "8x7b"
+        "latest",
+        "8x7b",
+        "8x22b"
       ]
     },
     {
       "name": "moondream",
       "tags": [
+        "latest",
         "1.8b"
       ]
     },
     {
       "name": "mxbai-embed-large",
       "tags": [
+        "latest",
         "335m"
       ]
     },
     {
       "name": "nemotron",
       "tags": [
+        "latest",
         "70b"
       ]
     },
     {
       "name": "nemotron-3-nano",
       "tags": [
-        "30b"
+        "latest",
+        "30b",
+        "30b-cloud"
       ]
     },
     {
       "name": "nemotron-mini",
       "tags": [
+        "latest",
         "4b"
+      ]
+    },
+    {
+      "name": "neural-chat",
+      "tags": [
+        "latest",
+        "7b"
       ]
     },
     {
       "name": "nexusraven",
       "tags": [
+        "latest",
         "13b"
       ]
     },
     {
       "name": "nomic-embed-text",
       "tags": [
-        "latest"
+        "latest",
+        "v1.5",
+        "137m-v1.5-fp16"
       ]
     },
     {
@@ -813,25 +1087,29 @@
     {
       "name": "notus",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "notux",
       "tags": [
+        "latest",
         "8x7b"
       ]
     },
     {
       "name": "nous-hermes",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "nous-hermes2",
       "tags": [
+        "latest",
         "10.7b",
         "34b"
       ]
@@ -839,223 +1117,296 @@
     {
       "name": "nous-hermes2-mixtral",
       "tags": [
+        "latest",
         "8x7b"
       ]
     },
     {
       "name": "nuextract",
       "tags": [
+        "latest",
         "3.8b"
       ]
     },
     {
       "name": "olmo-3",
       "tags": [
-        "32b",
-        "7b"
+        "latest",
+        "7b",
+        "32b"
       ]
     },
     {
       "name": "olmo-3.1",
       "tags": [
+        "latest",
         "32b"
       ]
     },
     {
       "name": "olmo2",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "open-orca-platypus2",
       "tags": [
+        "latest",
         "13b"
       ]
     },
     {
       "name": "openchat",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "opencoder",
       "tags": [
+        "latest",
         "1.5b",
         "8b"
       ]
     },
     {
+      "name": "openhermes",
+      "tags": [
+        "latest",
+        "v2",
+        "v2.5",
+        "7b-mistral-v2-q2_K",
+        "7b-mistral-v2-q3_K_S",
+        "7b-mistral-v2-q3_K_M",
+        "7b-mistral-v2-q3_K_L",
+        "7b-mistral-v2-q4_0",
+        "7b-mistral-v2-q4_1",
+        "7b-mistral-v2-q4_K_S",
+        "7b-mistral-v2-q4_K_M",
+        "7b-mistral-v2-q5_0",
+        "7b-mistral-v2-q5_1",
+        "7b-mistral-v2-q5_K_S",
+        "7b-mistral-v2-q5_K_M",
+        "7b-mistral-v2-q6_K",
+        "7b-mistral-v2-q8_0",
+        "7b-mistral-v2-fp16",
+        "7b-mistral-v2.5-q2_K",
+        "7b-mistral-v2.5-q3_K_S",
+        "7b-mistral-v2.5-q3_K_M",
+        "7b-mistral-v2.5-q3_K_L",
+        "7b-mistral-v2.5-q4_0",
+        "7b-mistral-v2.5-q4_1",
+        "7b-mistral-v2.5-q4_K_S",
+        "7b-mistral-v2.5-q4_K_M",
+        "7b-mistral-v2.5-q5_0",
+        "7b-mistral-v2.5-q5_1",
+        "7b-mistral-v2.5-q5_K_S",
+        "7b-mistral-v2.5-q5_K_M",
+        "7b-mistral-v2.5-q6_K",
+        "7b-mistral-v2.5-q8_0",
+        "7b-mistral-v2.5-fp16",
+        "7b-v2",
+        "7b-v2.5"
+      ]
+    },
+    {
       "name": "openthinker",
       "tags": [
-        "32b",
-        "7b"
+        "latest",
+        "7b",
+        "32b"
       ]
     },
     {
       "name": "orca-mini",
       "tags": [
-        "13b",
+        "latest",
         "3b",
-        "70b",
-        "7b"
+        "7b",
+        "13b",
+        "70b"
       ]
     },
     {
       "name": "orca2",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "paraphrase-multilingual",
       "tags": [
+        "latest",
         "278m"
       ]
     },
     {
       "name": "phi",
       "tags": [
+        "latest",
         "2.7b"
       ]
     },
     {
       "name": "phi3",
       "tags": [
-        "14b",
-        "3.8b"
+        "latest",
+        "3.8b",
+        "14b"
       ]
     },
     {
       "name": "phi3.5",
       "tags": [
+        "latest",
         "3.8b"
       ]
     },
     {
       "name": "phi4",
       "tags": [
+        "latest",
         "14b"
       ]
     },
     {
       "name": "phi4-mini",
       "tags": [
+        "latest",
         "3.8b"
       ]
     },
     {
       "name": "phi4-mini-reasoning",
       "tags": [
+        "latest",
         "3.8b"
       ]
     },
     {
       "name": "phi4-reasoning",
       "tags": [
+        "latest",
         "14b"
       ]
     },
     {
       "name": "phind-codellama",
       "tags": [
+        "latest",
         "34b"
       ]
     },
     {
       "name": "qwen",
       "tags": [
+        "latest",
         "0.5b",
         "1.8b",
-        "110b",
+        "4b",
+        "7b",
         "14b",
         "32b",
-        "4b",
         "72b",
-        "7b"
+        "110b"
       ]
     },
     {
       "name": "qwen2",
       "tags": [
+        "latest",
         "0.5b",
         "1.5b",
-        "72b",
-        "7b"
+        "7b",
+        "72b"
       ]
     },
     {
       "name": "qwen2-math",
       "tags": [
+        "latest",
         "1.5b",
-        "72b",
-        "7b"
+        "7b",
+        "72b"
       ]
     },
     {
       "name": "qwen2.5",
       "tags": [
+        "latest",
         "0.5b",
         "1.5b",
+        "3b",
+        "7b",
         "14b",
         "32b",
-        "3b",
-        "72b",
-        "7b"
+        "72b"
       ]
     },
     {
       "name": "qwen2.5-coder",
       "tags": [
+        "latest",
         "0.5b",
         "1.5b",
-        "14b",
-        "32b",
         "3b",
-        "7b"
+        "7b",
+        "14b",
+        "32b"
       ]
     },
     {
       "name": "qwen2.5vl",
       "tags": [
-        "32b",
+        "latest",
         "3b",
-        "72b",
-        "7b"
+        "7b",
+        "32b",
+        "72b"
       ]
     },
     {
       "name": "qwen3",
       "tags": [
+        "latest",
         "0.6b",
         "1.7b",
+        "4b",
+        "8b",
         "14b",
-        "235b",
         "30b",
         "32b",
-        "4b",
-        "8b"
+        "235b"
       ]
     },
     {
       "name": "qwen3-coder",
       "tags": [
+        "latest",
         "30b",
-        "480b"
+        "480b",
+        "480b-cloud"
       ]
     },
     {
       "name": "qwen3-coder-next",
       "tags": [
-        "latest"
+        "latest",
+        "cloud",
+        "q4_K_M",
+        "q8_0"
       ]
     },
     {
       "name": "qwen3-embedding",
       "tags": [
+        "latest",
         "0.6b",
         "4b",
         "8b"
@@ -1064,48 +1415,59 @@
     {
       "name": "qwen3-next",
       "tags": [
-        "80b"
+        "latest",
+        "80b",
+        "80b-cloud"
       ]
     },
     {
       "name": "qwen3-vl",
       "tags": [
-        "235b",
+        "latest",
         "2b",
+        "4b",
+        "8b",
         "30b",
         "32b",
-        "4b",
-        "8b"
+        "235b",
+        "235b-cloud",
+        "235b-instruct-cloud"
       ]
     },
     {
       "name": "qwen3.5",
       "tags": [
+        "latest",
         "0.8b",
-        "122b",
-        "27b",
         "2b",
-        "35b",
         "4b",
-        "9b"
+        "9b",
+        "27b",
+        "35b",
+        "122b",
+        "cloud",
+        "397b-cloud"
       ]
     },
     {
       "name": "qwq",
       "tags": [
+        "latest",
         "32b"
       ]
     },
     {
       "name": "r1-1776",
       "tags": [
-        "671b",
-        "70b"
+        "latest",
+        "70b",
+        "671b"
       ]
     },
     {
       "name": "reader-lm",
       "tags": [
+        "latest",
         "0.5b",
         "1.5b"
       ]
@@ -1113,117 +1475,135 @@
     {
       "name": "reflection",
       "tags": [
+        "latest",
         "70b"
       ]
     },
     {
       "name": "rnj-1",
       "tags": [
-        "8b"
+        "latest",
+        "8b",
+        "8b-cloud"
       ]
     },
     {
       "name": "sailor2",
       "tags": [
+        "latest",
         "1b",
-        "20b",
-        "8b"
+        "8b",
+        "20b"
       ]
     },
     {
       "name": "samantha-mistral",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "shieldgemma",
       "tags": [
-        "27b",
+        "latest",
         "2b",
-        "9b"
+        "9b",
+        "27b"
       ]
     },
     {
       "name": "smallthinker",
       "tags": [
+        "latest",
         "3b"
       ]
     },
     {
       "name": "smollm",
       "tags": [
-        "1.7b",
+        "latest",
         "135m",
-        "360m"
+        "360m",
+        "1.7b"
       ]
     },
     {
       "name": "smollm2",
       "tags": [
-        "1.7b",
+        "latest",
         "135m",
-        "360m"
+        "360m",
+        "1.7b"
       ]
     },
     {
       "name": "snowflake-arctic-embed",
       "tags": [
+        "latest",
+        "22m",
+        "33m",
         "110m",
         "137m",
-        "22m",
-        "335m",
-        "33m"
+        "335m"
       ]
     },
     {
       "name": "snowflake-arctic-embed2",
       "tags": [
+        "latest",
         "568m"
       ]
     },
     {
       "name": "solar",
       "tags": [
+        "latest",
         "10.7b"
       ]
     },
     {
       "name": "solar-pro",
       "tags": [
+        "latest",
         "22b"
       ]
     },
     {
       "name": "sqlcoder",
       "tags": [
-        "15b",
-        "7b"
+        "latest",
+        "7b",
+        "15b"
       ]
     },
     {
       "name": "stable-beluga",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "70b",
-        "7b"
+        "70b"
       ]
     },
     {
       "name": "stable-code",
       "tags": [
+        "latest",
         "3b"
       ]
     },
     {
       "name": "stablelm-zephyr",
       "tags": [
+        "latest",
         "3b"
       ]
     },
     {
       "name": "stablelm2",
       "tags": [
+        "latest",
         "1.6b",
         "12b"
       ]
@@ -1231,92 +1611,190 @@
     {
       "name": "starcoder",
       "tags": [
-        "15b",
+        "latest",
         "1b",
         "3b",
-        "7b"
+        "7b",
+        "15b"
       ]
     },
     {
       "name": "starcoder2",
       "tags": [
-        "15b",
+        "latest",
         "3b",
-        "7b"
+        "7b",
+        "15b"
       ]
     },
     {
       "name": "starling-lm",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "tinydolphin",
       "tags": [
+        "latest",
         "1.1b"
       ]
     },
     {
       "name": "tinyllama",
       "tags": [
+        "latest",
         "1.1b"
       ]
     },
     {
       "name": "translategemma",
       "tags": [
+        "latest",
+        "4b",
         "12b",
-        "27b",
-        "4b"
+        "27b"
       ]
     },
     {
       "name": "tulu3",
       "tags": [
-        "70b",
-        "8b"
+        "latest",
+        "8b",
+        "70b"
       ]
     },
     {
       "name": "vicuna",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "33b",
-        "7b"
+        "33b"
       ]
     },
     {
       "name": "wizard-math",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "70b",
-        "7b"
+        "70b"
       ]
     },
     {
       "name": "wizard-vicuna",
       "tags": [
+        "latest",
         "13b"
       ]
     },
     {
       "name": "wizard-vicuna-uncensored",
       "tags": [
+        "latest",
+        "7b",
         "13b",
-        "30b",
-        "7b"
+        "30b"
       ]
     },
     {
       "name": "wizardcoder",
       "tags": [
+        "latest",
         "33b"
+      ]
+    },
+    {
+      "name": "wizardlm",
+      "tags": [
+        "7b-q2_K",
+        "7b-q3_K_S",
+        "7b-q3_K_M",
+        "7b-q3_K_L",
+        "7b-q4_0",
+        "7b-q4_1",
+        "7b-q4_K_S",
+        "7b-q4_K_M",
+        "7b-q5_0",
+        "7b-q5_1",
+        "7b-q5_K_S",
+        "7b-q5_K_M",
+        "7b-q6_K",
+        "7b-q8_0",
+        "7b-fp16",
+        "13b-llama2-q2_K",
+        "13b-llama2-q3_K_S",
+        "13b-llama2-q3_K_M",
+        "13b-llama2-q3_K_L",
+        "13b-llama2-q4_0",
+        "13b-llama2-q4_1",
+        "13b-llama2-q4_K_S",
+        "13b-llama2-q4_K_M",
+        "13b-llama2-q5_0",
+        "13b-llama2-q5_1",
+        "13b-llama2-q5_K_S",
+        "13b-llama2-q5_K_M",
+        "13b-llama2-q6_K",
+        "13b-llama2-q8_0",
+        "13b-llama2-fp16",
+        "13b-q2_K",
+        "13b-q3_K_S",
+        "13b-q3_K_M",
+        "13b-q3_K_L",
+        "13b-q4_0",
+        "13b-q4_1",
+        "13b-q4_K_S",
+        "13b-q4_K_M",
+        "13b-q5_0",
+        "13b-q5_1",
+        "13b-q5_K_S",
+        "13b-q5_K_M",
+        "13b-q6_K",
+        "13b-q8_0",
+        "13b-fp16",
+        "30b-q2_K",
+        "30b-q3_K_S",
+        "30b-q3_K_M",
+        "30b-q3_K_L",
+        "30b-q4_0",
+        "30b-q4_1",
+        "30b-q4_K_S",
+        "30b-q4_K_M",
+        "30b-q5_0",
+        "30b-q5_1",
+        "30b-q5_K_S",
+        "30b-q5_K_M",
+        "30b-q6_K",
+        "30b-q8_0",
+        "30b-fp16",
+        "70b-llama2-q2_K",
+        "70b-llama2-q3_K_S",
+        "70b-llama2-q3_K_M",
+        "70b-llama2-q3_K_L",
+        "70b-llama2-q4_0",
+        "70b-llama2-q4_1",
+        "70b-llama2-q4_K_S",
+        "70b-llama2-q4_K_M",
+        "70b-llama2-q5_0",
+        "70b-llama2-q5_K_S",
+        "70b-llama2-q5_K_M",
+        "70b-llama2-q6_K",
+        "70b-llama2-q8_0"
+      ]
+    },
+    {
+      "name": "wizardlm-uncensored",
+      "tags": [
+        "latest",
+        "13b"
       ]
     },
     {
       "name": "wizardlm2",
       "tags": [
+        "latest",
         "7b",
         "8x22b"
       ]
@@ -1324,34 +1802,39 @@
     {
       "name": "xwinlm",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "yarn-llama2",
       "tags": [
-        "13b",
-        "7b"
+        "latest",
+        "7b",
+        "13b"
       ]
     },
     {
       "name": "yarn-mistral",
       "tags": [
+        "latest",
         "7b"
       ]
     },
     {
       "name": "yi",
       "tags": [
-        "34b",
+        "latest",
         "6b",
-        "9b"
+        "9b",
+        "34b"
       ]
     },
     {
       "name": "yi-coder",
       "tags": [
+        "latest",
         "1.5b",
         "9b"
       ]
@@ -1359,8 +1842,9 @@
     {
       "name": "zephyr",
       "tags": [
-        "141b",
-        "7b"
+        "latest",
+        "7b",
+        "141b"
       ]
     }
   ]
