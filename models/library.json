@@ -1,0 +1,1367 @@
+{
+  "models": [
+    {
+      "name": "alfred",
+      "tags": [
+        "40b"
+      ]
+    },
+    {
+      "name": "all-minilm",
+      "tags": [
+        "22m",
+        "33m"
+      ]
+    },
+    {
+      "name": "athene-v2",
+      "tags": [
+        "72b"
+      ]
+    },
+    {
+      "name": "aya",
+      "tags": [
+        "35b",
+        "8b"
+      ]
+    },
+    {
+      "name": "aya-expanse",
+      "tags": [
+        "32b",
+        "8b"
+      ]
+    },
+    {
+      "name": "bakllava",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "bespoke-minicheck",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "bge-large",
+      "tags": [
+        "335m"
+      ]
+    },
+    {
+      "name": "bge-m3",
+      "tags": [
+        "567m"
+      ]
+    },
+    {
+      "name": "codebooga",
+      "tags": [
+        "34b"
+      ]
+    },
+    {
+      "name": "codegeex4",
+      "tags": [
+        "9b"
+      ]
+    },
+    {
+      "name": "codegemma",
+      "tags": [
+        "2b",
+        "7b"
+      ]
+    },
+    {
+      "name": "codellama",
+      "tags": [
+        "13b",
+        "34b",
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "codeqwen",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "codestral",
+      "tags": [
+        "22b"
+      ]
+    },
+    {
+      "name": "codeup",
+      "tags": [
+        "13b"
+      ]
+    },
+    {
+      "name": "cogito",
+      "tags": [
+        "14b",
+        "32b",
+        "3b",
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "cogito-2.1",
+      "tags": [
+        "671b"
+      ]
+    },
+    {
+      "name": "command-a",
+      "tags": [
+        "111b"
+      ]
+    },
+    {
+      "name": "command-r",
+      "tags": [
+        "35b"
+      ]
+    },
+    {
+      "name": "command-r-plus",
+      "tags": [
+        "104b"
+      ]
+    },
+    {
+      "name": "command-r7b",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "command-r7b-arabic",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "dbrx",
+      "tags": [
+        "132b"
+      ]
+    },
+    {
+      "name": "deepcoder",
+      "tags": [
+        "1.5b",
+        "14b"
+      ]
+    },
+    {
+      "name": "deepscaler",
+      "tags": [
+        "1.5b"
+      ]
+    },
+    {
+      "name": "deepseek-coder",
+      "tags": [
+        "1.3b",
+        "33b",
+        "6.7b"
+      ]
+    },
+    {
+      "name": "deepseek-coder-v2",
+      "tags": [
+        "16b",
+        "236b"
+      ]
+    },
+    {
+      "name": "deepseek-llm",
+      "tags": [
+        "67b",
+        "7b"
+      ]
+    },
+    {
+      "name": "deepseek-ocr",
+      "tags": [
+        "3b"
+      ]
+    },
+    {
+      "name": "deepseek-r1",
+      "tags": [
+        "1.5b",
+        "14b",
+        "32b",
+        "671b",
+        "70b",
+        "7b",
+        "8b"
+      ]
+    },
+    {
+      "name": "deepseek-v2",
+      "tags": [
+        "16b",
+        "236b"
+      ]
+    },
+    {
+      "name": "deepseek-v2.5",
+      "tags": [
+        "236b"
+      ]
+    },
+    {
+      "name": "deepseek-v3",
+      "tags": [
+        "671b"
+      ]
+    },
+    {
+      "name": "deepseek-v3.1",
+      "tags": [
+        "671b"
+      ]
+    },
+    {
+      "name": "devstral",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "devstral-2",
+      "tags": [
+        "123b"
+      ]
+    },
+    {
+      "name": "devstral-small-2",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "dolphin-llama3",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "dolphin-mistral",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "dolphin-mixtral",
+      "tags": [
+        "8x22b",
+        "8x7b"
+      ]
+    },
+    {
+      "name": "dolphin-phi",
+      "tags": [
+        "2.7b"
+      ]
+    },
+    {
+      "name": "dolphin3",
+      "tags": [
+        "8b"
+      ]
+    },
+    {
+      "name": "dolphincoder",
+      "tags": [
+        "15b",
+        "7b"
+      ]
+    },
+    {
+      "name": "duckdb-nsql",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "embeddinggemma",
+      "tags": [
+        "300m"
+      ]
+    },
+    {
+      "name": "everythinglm",
+      "tags": [
+        "13b"
+      ]
+    },
+    {
+      "name": "exaone-deep",
+      "tags": [
+        "2.4b",
+        "32b",
+        "7.8b"
+      ]
+    },
+    {
+      "name": "exaone3.5",
+      "tags": [
+        "2.4b",
+        "32b",
+        "7.8b"
+      ]
+    },
+    {
+      "name": "falcon",
+      "tags": [
+        "180b",
+        "40b",
+        "7b"
+      ]
+    },
+    {
+      "name": "falcon2",
+      "tags": [
+        "11b"
+      ]
+    },
+    {
+      "name": "falcon3",
+      "tags": [
+        "10b",
+        "1b",
+        "3b",
+        "7b"
+      ]
+    },
+    {
+      "name": "firefunction-v2",
+      "tags": [
+        "70b"
+      ]
+    },
+    {
+      "name": "functiongemma",
+      "tags": [
+        "270m"
+      ]
+    },
+    {
+      "name": "gemma",
+      "tags": [
+        "2b",
+        "7b"
+      ]
+    },
+    {
+      "name": "gemma2",
+      "tags": [
+        "27b",
+        "2b",
+        "9b"
+      ]
+    },
+    {
+      "name": "gemma3",
+      "tags": [
+        "12b",
+        "1b",
+        "270m",
+        "27b",
+        "4b"
+      ]
+    },
+    {
+      "name": "gemma3n",
+      "tags": [
+        "e2b",
+        "e4b"
+      ]
+    },
+    {
+      "name": "glm-4.7-flash",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "glm-ocr",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "glm4",
+      "tags": [
+        "9b"
+      ]
+    },
+    {
+      "name": "goliath",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "gpt-oss",
+      "tags": [
+        "120b",
+        "20b"
+      ]
+    },
+    {
+      "name": "gpt-oss-safeguard",
+      "tags": [
+        "120b",
+        "20b"
+      ]
+    },
+    {
+      "name": "granite-code",
+      "tags": [
+        "20b",
+        "34b",
+        "3b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite-embedding",
+      "tags": [
+        "278m",
+        "30m"
+      ]
+    },
+    {
+      "name": "granite3-dense",
+      "tags": [
+        "2b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite3-guardian",
+      "tags": [
+        "2b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite3-moe",
+      "tags": [
+        "1b",
+        "3b"
+      ]
+    },
+    {
+      "name": "granite3.1-dense",
+      "tags": [
+        "2b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite3.1-moe",
+      "tags": [
+        "1b",
+        "3b"
+      ]
+    },
+    {
+      "name": "granite3.2",
+      "tags": [
+        "2b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite3.2-vision",
+      "tags": [
+        "2b"
+      ]
+    },
+    {
+      "name": "granite3.3",
+      "tags": [
+        "2b",
+        "8b"
+      ]
+    },
+    {
+      "name": "granite4",
+      "tags": [
+        "1b",
+        "350m",
+        "3b"
+      ]
+    },
+    {
+      "name": "hermes3",
+      "tags": [
+        "3b",
+        "405b",
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "internlm2",
+      "tags": [
+        "1.8b",
+        "20b",
+        "7b"
+      ]
+    },
+    {
+      "name": "lfm2",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "lfm2.5-thinking",
+      "tags": [
+        "1.2b"
+      ]
+    },
+    {
+      "name": "llama-guard3",
+      "tags": [
+        "1b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama2",
+      "tags": [
+        "13b",
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "llama2-chinese",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "llama2-uncensored",
+      "tags": [
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "llama3",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama3-chatqa",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama3-gradient",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama3-groq-tool-use",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama3.1",
+      "tags": [
+        "405b",
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "llama3.2",
+      "tags": [
+        "1b",
+        "3b"
+      ]
+    },
+    {
+      "name": "llama3.2-vision",
+      "tags": [
+        "11b",
+        "90b"
+      ]
+    },
+    {
+      "name": "llama3.3",
+      "tags": [
+        "70b"
+      ]
+    },
+    {
+      "name": "llama4",
+      "tags": [
+        "128x17b",
+        "16x17b"
+      ]
+    },
+    {
+      "name": "llava",
+      "tags": [
+        "13b",
+        "34b",
+        "7b"
+      ]
+    },
+    {
+      "name": "llava-llama3",
+      "tags": [
+        "8b"
+      ]
+    },
+    {
+      "name": "llava-phi3",
+      "tags": [
+        "3.8b"
+      ]
+    },
+    {
+      "name": "magicoder",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "magistral",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "marco-o1",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "mathstral",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "meditron",
+      "tags": [
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "medllama2",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "megadolphin",
+      "tags": [
+        "120b"
+      ]
+    },
+    {
+      "name": "minicpm-v",
+      "tags": [
+        "8b"
+      ]
+    },
+    {
+      "name": "ministral-3",
+      "tags": [
+        "14b",
+        "3b",
+        "8b"
+      ]
+    },
+    {
+      "name": "mistral",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "mistral-large",
+      "tags": [
+        "123b"
+      ]
+    },
+    {
+      "name": "mistral-nemo",
+      "tags": [
+        "12b"
+      ]
+    },
+    {
+      "name": "mistral-openorca",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "mistral-small",
+      "tags": [
+        "22b",
+        "24b"
+      ]
+    },
+    {
+      "name": "mistral-small3.1",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "mistral-small3.2",
+      "tags": [
+        "24b"
+      ]
+    },
+    {
+      "name": "mistrallite",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "mixtral",
+      "tags": [
+        "8x22b",
+        "8x7b"
+      ]
+    },
+    {
+      "name": "moondream",
+      "tags": [
+        "1.8b"
+      ]
+    },
+    {
+      "name": "mxbai-embed-large",
+      "tags": [
+        "335m"
+      ]
+    },
+    {
+      "name": "nemotron",
+      "tags": [
+        "70b"
+      ]
+    },
+    {
+      "name": "nemotron-3-nano",
+      "tags": [
+        "30b"
+      ]
+    },
+    {
+      "name": "nemotron-mini",
+      "tags": [
+        "4b"
+      ]
+    },
+    {
+      "name": "nexusraven",
+      "tags": [
+        "13b"
+      ]
+    },
+    {
+      "name": "nomic-embed-text",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "nomic-embed-text-v2-moe",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "notus",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "notux",
+      "tags": [
+        "8x7b"
+      ]
+    },
+    {
+      "name": "nous-hermes",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "nous-hermes2",
+      "tags": [
+        "10.7b",
+        "34b"
+      ]
+    },
+    {
+      "name": "nous-hermes2-mixtral",
+      "tags": [
+        "8x7b"
+      ]
+    },
+    {
+      "name": "nuextract",
+      "tags": [
+        "3.8b"
+      ]
+    },
+    {
+      "name": "olmo-3",
+      "tags": [
+        "32b",
+        "7b"
+      ]
+    },
+    {
+      "name": "olmo-3.1",
+      "tags": [
+        "32b"
+      ]
+    },
+    {
+      "name": "olmo2",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "open-orca-platypus2",
+      "tags": [
+        "13b"
+      ]
+    },
+    {
+      "name": "openchat",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "opencoder",
+      "tags": [
+        "1.5b",
+        "8b"
+      ]
+    },
+    {
+      "name": "openthinker",
+      "tags": [
+        "32b",
+        "7b"
+      ]
+    },
+    {
+      "name": "orca-mini",
+      "tags": [
+        "13b",
+        "3b",
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "orca2",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "paraphrase-multilingual",
+      "tags": [
+        "278m"
+      ]
+    },
+    {
+      "name": "phi",
+      "tags": [
+        "2.7b"
+      ]
+    },
+    {
+      "name": "phi3",
+      "tags": [
+        "14b",
+        "3.8b"
+      ]
+    },
+    {
+      "name": "phi3.5",
+      "tags": [
+        "3.8b"
+      ]
+    },
+    {
+      "name": "phi4",
+      "tags": [
+        "14b"
+      ]
+    },
+    {
+      "name": "phi4-mini",
+      "tags": [
+        "3.8b"
+      ]
+    },
+    {
+      "name": "phi4-mini-reasoning",
+      "tags": [
+        "3.8b"
+      ]
+    },
+    {
+      "name": "phi4-reasoning",
+      "tags": [
+        "14b"
+      ]
+    },
+    {
+      "name": "phind-codellama",
+      "tags": [
+        "34b"
+      ]
+    },
+    {
+      "name": "qwen",
+      "tags": [
+        "0.5b",
+        "1.8b",
+        "110b",
+        "14b",
+        "32b",
+        "4b",
+        "72b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen2",
+      "tags": [
+        "0.5b",
+        "1.5b",
+        "72b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen2-math",
+      "tags": [
+        "1.5b",
+        "72b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen2.5",
+      "tags": [
+        "0.5b",
+        "1.5b",
+        "14b",
+        "32b",
+        "3b",
+        "72b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen2.5-coder",
+      "tags": [
+        "0.5b",
+        "1.5b",
+        "14b",
+        "32b",
+        "3b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen2.5vl",
+      "tags": [
+        "32b",
+        "3b",
+        "72b",
+        "7b"
+      ]
+    },
+    {
+      "name": "qwen3",
+      "tags": [
+        "0.6b",
+        "1.7b",
+        "14b",
+        "235b",
+        "30b",
+        "32b",
+        "4b",
+        "8b"
+      ]
+    },
+    {
+      "name": "qwen3-coder",
+      "tags": [
+        "30b",
+        "480b"
+      ]
+    },
+    {
+      "name": "qwen3-coder-next",
+      "tags": [
+        "latest"
+      ]
+    },
+    {
+      "name": "qwen3-embedding",
+      "tags": [
+        "0.6b",
+        "4b",
+        "8b"
+      ]
+    },
+    {
+      "name": "qwen3-next",
+      "tags": [
+        "80b"
+      ]
+    },
+    {
+      "name": "qwen3-vl",
+      "tags": [
+        "235b",
+        "2b",
+        "30b",
+        "32b",
+        "4b",
+        "8b"
+      ]
+    },
+    {
+      "name": "qwen3.5",
+      "tags": [
+        "0.8b",
+        "122b",
+        "27b",
+        "2b",
+        "35b",
+        "4b",
+        "9b"
+      ]
+    },
+    {
+      "name": "qwq",
+      "tags": [
+        "32b"
+      ]
+    },
+    {
+      "name": "r1-1776",
+      "tags": [
+        "671b",
+        "70b"
+      ]
+    },
+    {
+      "name": "reader-lm",
+      "tags": [
+        "0.5b",
+        "1.5b"
+      ]
+    },
+    {
+      "name": "reflection",
+      "tags": [
+        "70b"
+      ]
+    },
+    {
+      "name": "rnj-1",
+      "tags": [
+        "8b"
+      ]
+    },
+    {
+      "name": "sailor2",
+      "tags": [
+        "1b",
+        "20b",
+        "8b"
+      ]
+    },
+    {
+      "name": "samantha-mistral",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "shieldgemma",
+      "tags": [
+        "27b",
+        "2b",
+        "9b"
+      ]
+    },
+    {
+      "name": "smallthinker",
+      "tags": [
+        "3b"
+      ]
+    },
+    {
+      "name": "smollm",
+      "tags": [
+        "1.7b",
+        "135m",
+        "360m"
+      ]
+    },
+    {
+      "name": "smollm2",
+      "tags": [
+        "1.7b",
+        "135m",
+        "360m"
+      ]
+    },
+    {
+      "name": "snowflake-arctic-embed",
+      "tags": [
+        "110m",
+        "137m",
+        "22m",
+        "335m",
+        "33m"
+      ]
+    },
+    {
+      "name": "snowflake-arctic-embed2",
+      "tags": [
+        "568m"
+      ]
+    },
+    {
+      "name": "solar",
+      "tags": [
+        "10.7b"
+      ]
+    },
+    {
+      "name": "solar-pro",
+      "tags": [
+        "22b"
+      ]
+    },
+    {
+      "name": "sqlcoder",
+      "tags": [
+        "15b",
+        "7b"
+      ]
+    },
+    {
+      "name": "stable-beluga",
+      "tags": [
+        "13b",
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "stable-code",
+      "tags": [
+        "3b"
+      ]
+    },
+    {
+      "name": "stablelm-zephyr",
+      "tags": [
+        "3b"
+      ]
+    },
+    {
+      "name": "stablelm2",
+      "tags": [
+        "1.6b",
+        "12b"
+      ]
+    },
+    {
+      "name": "starcoder",
+      "tags": [
+        "15b",
+        "1b",
+        "3b",
+        "7b"
+      ]
+    },
+    {
+      "name": "starcoder2",
+      "tags": [
+        "15b",
+        "3b",
+        "7b"
+      ]
+    },
+    {
+      "name": "starling-lm",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "tinydolphin",
+      "tags": [
+        "1.1b"
+      ]
+    },
+    {
+      "name": "tinyllama",
+      "tags": [
+        "1.1b"
+      ]
+    },
+    {
+      "name": "translategemma",
+      "tags": [
+        "12b",
+        "27b",
+        "4b"
+      ]
+    },
+    {
+      "name": "tulu3",
+      "tags": [
+        "70b",
+        "8b"
+      ]
+    },
+    {
+      "name": "vicuna",
+      "tags": [
+        "13b",
+        "33b",
+        "7b"
+      ]
+    },
+    {
+      "name": "wizard-math",
+      "tags": [
+        "13b",
+        "70b",
+        "7b"
+      ]
+    },
+    {
+      "name": "wizard-vicuna",
+      "tags": [
+        "13b"
+      ]
+    },
+    {
+      "name": "wizard-vicuna-uncensored",
+      "tags": [
+        "13b",
+        "30b",
+        "7b"
+      ]
+    },
+    {
+      "name": "wizardcoder",
+      "tags": [
+        "33b"
+      ]
+    },
+    {
+      "name": "wizardlm2",
+      "tags": [
+        "7b",
+        "8x22b"
+      ]
+    },
+    {
+      "name": "xwinlm",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "yarn-llama2",
+      "tags": [
+        "13b",
+        "7b"
+      ]
+    },
+    {
+      "name": "yarn-mistral",
+      "tags": [
+        "7b"
+      ]
+    },
+    {
+      "name": "yi",
+      "tags": [
+        "34b",
+        "6b",
+        "9b"
+      ]
+    },
+    {
+      "name": "yi-coder",
+      "tags": [
+        "1.5b",
+        "9b"
+      ]
+    },
+    {
+      "name": "zephyr",
+      "tags": [
+        "141b",
+        "7b"
+      ]
+    }
+  ]
+}
